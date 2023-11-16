@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="$MODULE_DIR$/Java/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/Java/target/classes" />
+    <output-test url="file://$MODULE_DIR$/Java/target/test-classes" />
+    <content url="file://$MODULE_DIR$/Java">
+      <sourceFolder url="file://$MODULE_DIR$/Java/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/Java/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a1ffc6d3-64ca-4dde-825d-246fdca3c6a5" />
+  </component>
+</module>
